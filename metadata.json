@@ -1,0 +1,5 @@
+{
+  "name": "Life Window Monitor",
+  "description": "A visualization tool for tracking life's critical windows across career, wealth, health, and relationships.",
+  "requestFramePermissions": []
+}
